@@ -1,4 +1,4 @@
-#Web2Chrome_App
+# Web2Chrome_App
 
 ### 一、将Web做成Chrome App的方式，方便在系统界面快速启动
 
