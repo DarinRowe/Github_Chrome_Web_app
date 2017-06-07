@@ -1,0 +1,17 @@
+{
+    "name": "番茄土豆Web App",
+    "description": "番茄土豆的网页版添加在Chrome的App中，可以的系统中快速开启。如有问题可邮件联系baoao11#gmail.com(#改成@)。",
+    "version": "0.8.1",
+    "manifest_version": 2,
+    "icons": {
+        "128": "app.png"
+    },
+    "app": {
+        "urls": [
+            "https://pomotodo.com/app/"
+        ],
+        "launch": {
+            "web_url": "https://pomotodo.com/app/"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "百度脑图",
+    "description": "NaoTu_Web_app",
+    "version": "0.1.1",
+    "icons": {
+        "128": "app.png"
+    },
+    "app": {
+        "urls": [
+            "http://naotu.baidu.com/home"
+        ],
+        "launch": {
+            "web_url": "http://naotu.baidu.com/home"
+        }
+    }
+}
